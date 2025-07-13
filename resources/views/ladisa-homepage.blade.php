@@ -183,10 +183,10 @@
                 <div>
                     <h5 class="text-warning mb-0">
                         <i class="fas fa-calendar-check me-2"></i>
-                        {{ $role === 'admin' ? 'Semua Data Booking' : 'Riwayat Booking Anda' }}
+                        {{ $role === 'admin' ? 'Semua Data Booking' : 'Riwayat Booking' }}
                     </h5>
                     <small class="text-muted">
-                        {{ $role === 'admin' ? 'Daftar semua booking yang masuk' : 'Daftar booking yang telah Anda buat' }}
+                        {{ $role === 'admin' ? 'Daftar semua booking yang masuk' : 'Daftar Booking Pengunjung Villa' }}
                     </small>
                 </div>
             </div>

@@ -37,8 +37,8 @@
 
 <div class="d-flex justify-content-center align-items-center mt-5">
     <div class="welcome-section text-center w-100">
-        <h1 class="welcome-title">Selamat Datang </h1>
-        <h3 class="welcome-subtitle">Di Villa Pakan Kamih Bukittinggi</h3>
+        <h1 class="welcome-title">Sistem Informasi</h1>
+        <h3 class="welcome-subtitle">Villa Pakan Kamih Bukittinggi</h3>
         <p class="welcome-desc">
             Sistem Informasi untuk mengelola kamar, jenis kamar, pengunjung, dan booking secara efisien dan terstruktur.
             Didesain untuk kenyamanan dan kemudahan pengelolaan Villa Pakan Kamih.
